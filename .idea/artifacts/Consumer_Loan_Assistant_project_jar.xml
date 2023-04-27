@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Consumer Loan Assistant project:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Consumer_Loan_Assistant_project_jar</output-path>
+    <root id="archive" name="Consumer Loan Assistant project.jar">
+      <element id="module-output" name="Consumer Loan Assistant project" />
+    </root>
+  </artifact>
+</component>
